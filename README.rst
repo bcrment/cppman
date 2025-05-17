@@ -7,6 +7,8 @@ cppman
 ======
 C++ 98/11/14/17/20 manual pages for Linux, with source from `cplusplus.com <http://cplusplus.com/>`_ and `cppreference.com <https://cppreference.com/>`_.
 
+This is a fork new branch for windows version purpose. Simple! 
+
 .. image:: https://raw.github.com/aitjcize/cppman/master/wiki/screenshot.png
 
 Features
@@ -99,3 +101,4 @@ Contributing
 Notes
 -----
 * manpages-cpp is renamed to cppman since September 19, 2012
+* see windows/readme.md to more about this fork branch
